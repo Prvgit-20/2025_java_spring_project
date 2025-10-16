@@ -1,0 +1,15 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St, City, Country"
+}
+    "brand": "Samsung",
+    "model": "Galaxy S25",
+    "imei": "123456789012345",
+    "price": 999.99,
+    "color": "Cosmic Black",
+    "stockQuantity": 50
+}
+
